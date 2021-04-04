@@ -13,19 +13,19 @@ source/Console.o source/Console.d: ../source/Console.c \
  ../Generated_Code/XF1config.h ../Generated_Code/CS1.h \
  ../Generated_Code/CS1config.h ../Generated_Code/ConsoleRx.h \
  ../Generated_Code/ConsoleRxconfig.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/drivers/fsl_uart.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/drivers/fsl_common.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/fsl_device_registers.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/MK64F12.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/core_cm4.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/core_cmInstr.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/cmsis_gcc.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/core_cmFunc.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/core_cmSimd.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/system_MK64F12.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/MK64F12_features.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/drivers/fsl_clock.h \
- /home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/drivers/fsl_clock.h
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/drivers/fsl_uart.h \
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/drivers/fsl_common.h \
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/fsl_device_registers.h \
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/MK64F12.h \
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/core_cm4.h \
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/core_cmInstr.h \
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/cmsis_gcc.h \
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/core_cmFunc.h \
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/core_cmSimd.h \
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/system_MK64F12.h \
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/MK64F12_features.h \
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/drivers/fsl_clock.h \
+ /home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/drivers/fsl_clock.h
 
 ../source/Console.h:
 
@@ -81,28 +81,28 @@ source/Console.o source/Console.d: ../source/Console.c \
 
 ../Generated_Code/ConsoleRxconfig.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/drivers/fsl_uart.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/drivers/fsl_uart.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/drivers/fsl_common.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/drivers/fsl_common.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/fsl_device_registers.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/fsl_device_registers.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/MK64F12.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/MK64F12.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/core_cm4.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/core_cm4.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/core_cmInstr.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/core_cmInstr.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/cmsis_gcc.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/cmsis_gcc.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/core_cmFunc.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/core_cmFunc.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/core_cmSimd.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/core_cmSimd.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/system_MK64F12.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/system_MK64F12.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/CMSIS/MK64F12_features.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/CMSIS/MK64F12_features.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/drivers/fsl_clock.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/drivers/fsl_clock.h:
 
-/home/preetham/mcuxpressoide_ws/FRDM-K64F_lwip_lwip_mqtt_bm/drivers/fsl_clock.h:
+/home/preetham/mcuxpressoide_ws/frdm_frtos_lwip_mqtt_mbedtls/drivers/fsl_clock.h:
