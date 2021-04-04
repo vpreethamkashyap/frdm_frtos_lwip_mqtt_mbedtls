@@ -1,0 +1,12 @@
+heap_useNewlib.c:114:8:sbrk	24	static
+heap_useNewlib.c:143:8:_sbrk	16	static
+malloc.h:136:13:__malloc_lock	16	static
+malloc.h:138:13:__malloc_unlock	16	static
+heap_useNewlib.c:152:6:__env_lock	8	static
+heap_useNewlib.c:153:6:__env_unlock	8	static
+heap_useNewlib.c:158:7:__wrap_malloc	24	static
+heap_useNewlib.c:163:7:__wrap__malloc_r	24	static
+heap_useNewlib.c:174:7:pvPortMalloc	24	static
+heap_useNewlib.c:178:6:vPortFree	16	static
+heap_useNewlib.c:182:8:xPortGetFreeHeapSize	48	static
+heap_useNewlib.c:191:6:vPortInitialiseBlocks	4	static

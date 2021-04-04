@@ -1,0 +1,3 @@
+net.c:493:5:mbedtls_net_incoming	24	static
+net.c:503:5:mbedtls_net_recv	32	static
+net.c:601:5:mbedtls_net_send	32	static

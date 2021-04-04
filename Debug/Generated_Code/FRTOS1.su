@@ -1,0 +1,8 @@
+FRTOS1.c:266:16:PrintTaskList	240	static
+FRTOS1.c:529:16:PrintStatus	32	static
+FRTOS1.c:549:16:PrintHelp	16	static
+FRTOS1.c:2127:9:FRTOS1_ParseCommand	24	static
+FRTOS1.c:2152:6:FRTOS1_Init	8	static
+FRTOS1.c:4449:6:FRTOS1_Deinit	4	static
+FRTOS1.c:4907:6:FRTOS1_AppConfigureTimerForRuntimeStats	4	static
+FRTOS1.c:4928:10:FRTOS1_AppGetRuntimeCounterValueFromISR	8	static

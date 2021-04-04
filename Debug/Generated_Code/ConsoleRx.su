@@ -1,0 +1,12 @@
+ConsoleRx.c:102:9:ConsoleRx_Put	24	static
+ConsoleRx.c:136:9:ConsoleRx_Putn	24	static
+ConsoleRx.c:163:9:ConsoleRx_Get	24	static
+ConsoleRx.c:197:9:ConsoleRx_Getn	24	static
+ConsoleRx.c:221:23:ConsoleRx_NofElements	4	static
+ConsoleRx.c:237:23:ConsoleRx_NofFreeElements	4	static
+ConsoleRx.c:251:6:ConsoleRx_Init	4	static
+ConsoleRx.c:267:6:ConsoleRx_Clear	16	static
+ConsoleRx.c:291:9:ConsoleRx_Peek	32	static
+ConsoleRx.c:325:9:ConsoleRx_Compare	24	static
+ConsoleRx.c:372:9:ConsoleRx_Delete	16	static
+ConsoleRx.c:406:9:ConsoleRx_Update	32	static

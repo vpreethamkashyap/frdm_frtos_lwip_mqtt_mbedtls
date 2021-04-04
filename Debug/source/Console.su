@@ -1,0 +1,10 @@
+core_cm4.h:1626:22:NVIC_EnableIRQ	16	static
+fsl_common.h:212:20:EnableIRQ	16	static
+fsl_uart.h:555:23:UART_ReadByte	16	static
+Console.c:36:6:UART0_RX_TX_IRQHandler	16	static
+Console.c:57:13:HasInput	8	static
+Console.c:83:13:ReadChar	16	static
+Console.c:126:13:WriteChar	16	static
+Console.c:143:9:CONSOLE_SendChar	16	static
+Console.c:148:22:CONSOLE_GetStdio	4	static
+Console.c:152:6:CONSOLE_Init	24	static

@@ -1,0 +1,8 @@
+RTT1.c:240:6:RTT1_StdIOKeyPressed	8	static
+RTT1.c:258:6:RTT1_StdIOReadChar	24	static
+RTT1.c:281:6:RTT1_StdIOSendChar	24	static
+RTT1.c:311:9:RTT1_RecvChar	24	static
+RTT1.c:336:9:RTT1_SendChar	24	static
+RTT1.c:491:6:RTT1_Deinit	4	static
+RTT1.c:505:6:RTT1_Init	8	static
+RTT1.c:520:24:RTT1_GetStdio	4	static

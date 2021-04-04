@@ -1,0 +1,7 @@
+WAIT1.c:85:53:WAIT1_Wait10Cycles	0	static
+WAIT1.c:110:53:WAIT1_Wait100Cycles	0	static
+WAIT1.c:150:6:WAIT1_WaitCycles	16	static
+WAIT1.c:184:6:WAIT1_WaitLongCycles	16	static
+WAIT1.c:216:6:WAIT1_Waitms	24	static
+WAIT1.c:280:6:WAIT1_Init	4	static
+WAIT1.c:299:6:WAIT1_DeInit	4	static

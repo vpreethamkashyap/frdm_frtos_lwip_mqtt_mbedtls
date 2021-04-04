@@ -1,0 +1,8 @@
+Shell.c:33:13:SHELL_SendChar	16	static
+Shell.c:40:13:SHELL_ReadChar	16	static
+Shell.c:54:13:SHELL_KeyPressed	8	static
+Shell.c:76:22:SHELL_GetStdio	4	static
+Shell.c:95:6:SHELL_SendString	16	static
+Shell.c:120:13:ShellTask	32	static
+Shell.c:143:6:SHELL_Init	16	static
+Shell.c:155:6:SHELL_Deinit	8	static

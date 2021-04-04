@@ -1,0 +1,2 @@
+app_accel.c:22:13:AccelTask	32	static
+app_accel.c:49:6:ACCEL_Init	16	static

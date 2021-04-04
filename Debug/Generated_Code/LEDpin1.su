@@ -1,0 +1,16 @@
+fsl_port.h:321:20:PORT_SetPinMux	24	static
+fsl_gpio.h:175:20:GPIO_SetPinsOutput	16	static
+fsl_gpio.h:186:20:GPIO_ClearPinsOutput	16	static
+fsl_gpio.h:197:20:GPIO_TogglePinsOutput	16	static
+fsl_gpio.h:215:24:GPIO_ReadPinInput	16	static
+LEDpin1.c:153:6:LEDpin1_ClrVal	8	static
+LEDpin1.c:171:6:LEDpin1_SetVal	8	static
+LEDpin1.c:189:6:LEDpin1_NegVal	8	static
+LEDpin1.c:210:6:LEDpin1_GetVal	8	static
+LEDpin1.c:232:6:LEDpin1_GetDir	4	static
+LEDpin1.c:248:6:LEDpin1_SetDir	16	static
+LEDpin1.c:266:6:LEDpin1_SetInput	8	static
+LEDpin1.c:285:6:LEDpin1_SetOutput	8	static
+LEDpin1.c:307:6:LEDpin1_PutVal	16	static
+LEDpin1.c:329:6:LEDpin1_Init	8	static
+LEDpin1.c:355:6:LEDpin1_Deinit	4	static

@@ -1,0 +1,9 @@
+aes.c:58:13:mbedtls_zeroize	24	static
+aes.c:470:6:mbedtls_aes_init	16	static
+aes.c:475:6:mbedtls_aes_free	16	static
+aes.c:829:5:mbedtls_aes_crypt_ecb	24	static
+aes.c:864:5:mbedtls_aes_crypt_cbc	48	static
+aes.c:932:5:mbedtls_aes_crypt_cfb128	32	static
+aes.c:978:5:mbedtls_aes_crypt_cfb8	48	static
+aes.c:1014:5:mbedtls_aes_crypt_ctr	40	static
+aes.c:1229:5:mbedtls_aes_self_test	528	static

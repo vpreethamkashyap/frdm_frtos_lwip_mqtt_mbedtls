@@ -1,0 +1,12 @@
+RNG1.c:102:9:RNG1_Put	24	static
+RNG1.c:136:9:RNG1_Putn	24	static
+RNG1.c:163:9:RNG1_Get	24	static
+RNG1.c:197:9:RNG1_Getn	24	static
+RNG1.c:221:18:RNG1_NofElements	4	static
+RNG1.c:237:18:RNG1_NofFreeElements	4	static
+RNG1.c:251:6:RNG1_Init	4	static
+RNG1.c:267:6:RNG1_Clear	16	static
+RNG1.c:291:9:RNG1_Peek	32	static
+RNG1.c:325:9:RNG1_Compare	24	static
+RNG1.c:372:9:RNG1_Delete	16	static
+RNG1.c:406:9:RNG1_Update	32	static

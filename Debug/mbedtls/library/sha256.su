@@ -1,0 +1,9 @@
+sha256.c:51:13:mbedtls_zeroize	24	static
+sha256.c:78:6:mbedtls_sha256_init	16	static
+sha256.c:83:6:mbedtls_sha256_free	16	static
+sha256.c:91:6:mbedtls_sha256_clone	16	static
+sha256.c:100:6:mbedtls_sha256_starts	16	static
+sha256.c:238:6:mbedtls_sha256_update	32	static
+sha256.c:287:6:mbedtls_sha256_finish	40	static
+sha256.c:323:6:mbedtls_sha256	136	static
+sha256.c:389:5:mbedtls_sha256_self_test	1200	static

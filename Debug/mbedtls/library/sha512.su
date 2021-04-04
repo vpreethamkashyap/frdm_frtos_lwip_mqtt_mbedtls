@@ -1,0 +1,10 @@
+sha512.c:57:13:mbedtls_zeroize	24	static
+sha512.c:92:6:mbedtls_sha512_init	16	static
+sha512.c:97:6:mbedtls_sha512_free	16	static
+sha512.c:105:6:mbedtls_sha512_clone	16	static
+sha512.c:114:6:mbedtls_sha512_starts	16	static
+sha512.c:196:6:mbedtls_sha512_process	2504	static
+sha512.c:269:6:mbedtls_sha512_update	48	static
+sha512.c:321:6:mbedtls_sha512_finish	72	static
+sha512.c:359:6:mbedtls_sha512	240	static
+sha512.c:445:5:mbedtls_sha512_self_test	1344	static

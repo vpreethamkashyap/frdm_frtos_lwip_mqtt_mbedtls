@@ -1,0 +1,12 @@
+XF1.c:333:13:putCharIntoBufMaxLen	24	static
+XF1.c:341:12:xsnprintf	40	static
+XF1.c:388:10:XF1_xformat	24	static
+XF1.c:422:13:toUpperCase	16	static
+XF1.c:433:17:xstrlen	24	static
+XF1.c:448:17:outBuffer	32	static
+XF1.c:466:17:outChars	32	static
+XF1.c:478:13:putCharIntoBuf	24	static
+XF1.c:483:12:xsprintf	32	static
+XF1.c:536:10:XF1_xvformat	160	static
+XF1.c:919:5:XF1_xsprintf	28	static
+XF1.c:948:5:XF1_xsnprintf	24	static

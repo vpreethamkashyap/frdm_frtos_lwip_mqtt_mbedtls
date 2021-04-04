@@ -1,0 +1,12 @@
+des.c:52:13:mbedtls_zeroize	24	static
+des.c:311:6:mbedtls_des_init	16	static
+des.c:316:6:mbedtls_des_free	16	static
+des.c:324:6:mbedtls_des3_init	16	static
+des.c:329:6:mbedtls_des3_free	16	static
+des.c:348:6:mbedtls_des_key_set_parity	24	static
+des.c:359:5:mbedtls_des_key_check_key_parity	24	static
+des.c:414:5:mbedtls_des_key_check_weak	24	static
+des.c:426:6:mbedtls_des_setkey	32	static
+des.c:682:5:mbedtls_des_crypt_cbc	40	static
+des.c:783:5:mbedtls_des3_crypt_cbc	40	static
+des.c:892:5:mbedtls_des_self_test	600	static
